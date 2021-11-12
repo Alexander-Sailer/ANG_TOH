@@ -27,6 +27,19 @@ https://angular.io/tutorial/toh-pt1
 
 4.) Add services: https://angular.io/tutorial/toh-pt4#add-services
     - Create the HeroService: https://angular.io/tutorial/toh-pt4#create-the-heroservice
+      - @Injectable() services: https://angular.io/tutorial/toh-pt4#injectable-services
+      - Get hero data: https://angular.io/tutorial/toh-pt4#get-hero-data
+      - Provide the HeroService: https://angular.io/tutorial/toh-pt4#provide-the-heroservice
+      - Update HeroesComponent: https://angular.io/tutorial/toh-pt4#update-heroescomponent
+      - Add getHeroes(): https://angular.io/tutorial/toh-pt4#add-getheroes
+      - Call it in ngOnInit(): https://angular.io/tutorial/toh-pt4#call-it-in-ngoninit
+    - Observable data: https://angular.io/tutorial/toh-pt4#observable-data
+      - Observable HeroService: https://angular.io/tutorial/toh-pt4#observable-heroservice
+      - Subscribe in HeroesComponent: https://angular.io/tutorial/toh-pt4#subscribe-in-heroescomponent
+
+
+
+
 
 
 
