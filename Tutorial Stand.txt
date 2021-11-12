@@ -36,6 +36,16 @@ https://angular.io/tutorial/toh-pt1
     - Observable data: https://angular.io/tutorial/toh-pt4#observable-data
       - Observable HeroService: https://angular.io/tutorial/toh-pt4#observable-heroservice
       - Subscribe in HeroesComponent: https://angular.io/tutorial/toh-pt4#subscribe-in-heroescomponent
+    - Show messages: https://angular.io/tutorial/toh-pt4#show-messages
+      - Create MessagesComponent: https://angular.io/tutorial/toh-pt4#create-the-messageservice
+      - Create the MessageService: https://angular.io/tutorial/toh-pt4#create-the-messageservice
+        - Inject it into the HeroService: https://angular.io/tutorial/toh-pt4#inject-it-into-the-heroservice
+        - Send a message from HeroService: https://angular.io/tutorial/toh-pt4#send-a-message-from-heroservice
+        - Display the message from HeroService: https://angular.io/tutorial/toh-pt4#display-the-message-from-heroservice
+        - Bind to the MessageService: https://angular.io/tutorial/toh-pt4#bind-to-the-messageservice
+
+
+
 
 
 
