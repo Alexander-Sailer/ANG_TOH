@@ -18,4 +18,12 @@ https://angular.io/tutorial/toh-pt1
 
     - Style the selected hero: https://angular.io/tutorial/toh-pt2#style-the-selected-hero
 
+3.) Create a feature component: https://angular.io/tutorial/toh-pt3#create-a-feature-component
+    - Make the HeroDetailComponent: https://angular.io/tutorial/toh-pt3#make-the-herodetailcomponent
+    - Write the template: https://angular.io/tutorial/toh-pt3#write-the-template
+    - Add the @Input() hero property: https://angular.io/tutorial/toh-pt3#add-the-input-hero-property
+    - Show the HeroDetailComponent: https://angular.io/tutorial/toh-pt3#show-the-herodetailcomponent
+      - Update the HeroesComponent template: https://angular.io/tutorial/toh-pt3#update-the-heroescomponent-template
+
+
 
