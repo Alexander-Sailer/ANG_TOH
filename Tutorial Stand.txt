@@ -25,5 +25,8 @@ https://angular.io/tutorial/toh-pt1
     - Show the HeroDetailComponent: https://angular.io/tutorial/toh-pt3#show-the-herodetailcomponent
       - Update the HeroesComponent template: https://angular.io/tutorial/toh-pt3#update-the-heroescomponent-template
 
+4.) Add services: https://angular.io/tutorial/toh-pt4#add-services
+    - Create the HeroService: https://angular.io/tutorial/toh-pt4#create-the-heroservice
+
 
 
