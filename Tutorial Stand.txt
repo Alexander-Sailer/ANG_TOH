@@ -43,6 +43,8 @@ https://angular.io/tutorial/toh-pt1
         - Send a message from HeroService: https://angular.io/tutorial/toh-pt4#send-a-message-from-heroservice
         - Display the message from HeroService: https://angular.io/tutorial/toh-pt4#display-the-message-from-heroservice
         - Bind to the MessageService: https://angular.io/tutorial/toh-pt4#bind-to-the-messageservice
+    - Add additional messages to hero service: https://angular.io/tutorial/toh-pt4#add-additional-messages-to-hero-service
+
 
 
 
