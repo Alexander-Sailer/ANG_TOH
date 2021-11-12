@@ -1,4 +1,21 @@
 https://angular.io/tutorial/toh-pt1
 
 1.) The hero Editor
-  -https://angular.io/tutorial/toh-pt1#edit-the-hero
+  - https://angular.io/tutorial/toh-pt1#edit-the-hero
+
+2.) Display a list
+    - Display a selection list: https://angular.io/tutorial/toh-pt2#display-a-selection-list
+      - Create mock heroes: https://angular.io/tutorial/toh-pt2#create-mock-heroes
+      - Displaying heroes: https://angular.io/tutorial/toh-pt2#displaying-heroes
+      - List heroes with *ngFor: https://angular.io/tutorial/toh-pt2#list-heroes-with-ngfor
+      - Style the heroes: https://angular.io/tutorial/toh-pt2#style-the-heroes
+
+    - Viewing details: https://angular.io/tutorial/toh-pt2#viewing-details
+      - Click event bindig: https://angular.io/tutorial/toh-pt2#add-a-click-event-binding
+      - Click event handler: https://angular.io/tutorial/toh-pt2#add-the-click-event-handler
+      - Add a details section: https://angular.io/tutorial/toh-pt2#add-a-details-section
+      - The fix - hide empty details with *ngIf: https://angular.io/tutorial/toh-pt2#the-fix---hide-empty-details-with-ngif
+
+    - Style the selected hero: https://angular.io/tutorial/toh-pt2#style-the-selected-hero
+
+
