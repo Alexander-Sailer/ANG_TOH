@@ -58,6 +58,8 @@ https://angular.io/tutorial/toh-pt1
       - Add a hero detail route: https://angular.io/tutorial/toh-pt5#add-a-hero-detail-route
       - DashboardComponent hero links: https://angular.io/tutorial/toh-pt5#dashboardcomponent-hero-links
     - Routable HeroDetailComponent: https://angular.io/tutorial/toh-pt5#routable-herodetailcomponent
+      - Extract the id route parameter: https://angular.io/tutorial/toh-pt5#extract-the-id-route-parameter
+      - Add HeroService.getHero(): https://angular.io/tutorial/toh-pt5#add-heroservicegethero
 
 
 
