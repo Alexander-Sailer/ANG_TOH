@@ -49,6 +49,7 @@ https://angular.io/tutorial/toh-pt1
     - Add the AppRoutingModule: https://angular.io/tutorial/toh-pt5#add-the-approutingmodule
       - Add RouterOutlet: https://angular.io/tutorial/toh-pt5#add-routeroutlet
       - Add a navigation link (routerLink): https://angular.io/tutorial/toh-pt5#add-a-navigation-link-routerlink
+      - Add a dashboard view: https://angular.io/tutorial/toh-pt5#add-a-dashboard-view
 
 
 
