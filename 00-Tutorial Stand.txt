@@ -50,6 +50,9 @@ https://angular.io/tutorial/toh-pt1
       - Add RouterOutlet: https://angular.io/tutorial/toh-pt5#add-routeroutlet
       - Add a navigation link (routerLink): https://angular.io/tutorial/toh-pt5#add-a-navigation-link-routerlink
       - Add a dashboard view: https://angular.io/tutorial/toh-pt5#add-a-dashboard-view
+      - Add the dashboard route: https://angular.io/tutorial/toh-pt5#add-the-dashboard-route
+      - Add a default route: https://angular.io/tutorial/toh-pt5#add-a-default-route
+      - Add dashboard link to the shell: https://angular.io/tutorial/toh-pt5#add-dashboard-link-to-the-shell
 
 
 
