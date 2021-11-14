@@ -20,6 +20,10 @@
   background-color: #e6e6e6;
   left: .1em;
 }
+.heroes li:active {
+  background-color: #525252;
+  color: #fafafa;
+}
 .heroes li.selected {
   background-color: rgb(143, 14, 14);
   color: white;
@@ -47,6 +51,3 @@
   border-radius: 4px 0 0 4px;
 }
 
-input {
-  padding: .5rem;
-}
