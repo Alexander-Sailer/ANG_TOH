@@ -45,6 +45,22 @@ https://angular.io/tutorial/toh-pt1
         - Bind to the MessageService: https://angular.io/tutorial/toh-pt4#bind-to-the-messageservice
     - Add additional messages to hero service: https://angular.io/tutorial/toh-pt4#add-additional-messages-to-hero-service
 
+5.) Add navigation with routing: https://angular.io/tutorial/toh-pt5#add-navigation-with-routing
+    - Add the AppRoutingModule: https://angular.io/tutorial/toh-pt5#add-the-approutingmodule
+      - Add RouterOutlet: https://angular.io/tutorial/toh-pt5#add-routeroutlet
+      - Add a navigation link (routerLink): https://angular.io/tutorial/toh-pt5#add-a-navigation-link-routerlink
+      - Add a dashboard view: https://angular.io/tutorial/toh-pt5#add-a-dashboard-view
+      - Add the dashboard route: https://angular.io/tutorial/toh-pt5#add-the-dashboard-route
+      - Add a default route: https://angular.io/tutorial/toh-pt5#add-a-default-route
+      - Add dashboard link to the shell: https://angular.io/tutorial/toh-pt5#add-dashboard-link-to-the-shell
+    - Navigating to hero details: https://angular.io/tutorial/toh-pt5#navigating-to-hero-details
+      - Delete hero details from HeroesComponent: https://angular.io/tutorial/toh-pt5#delete-hero-details-from-heroescomponent
+      - Add a hero detail route: https://angular.io/tutorial/toh-pt5#add-a-hero-detail-route
+      - DashboardComponent hero links: https://angular.io/tutorial/toh-pt5#dashboardcomponent-hero-links
+    - Routable HeroDetailComponent: https://angular.io/tutorial/toh-pt5#routable-herodetailcomponent
+      - Extract the id route parameter: https://angular.io/tutorial/toh-pt5#extract-the-id-route-parameter
+      - Add HeroService.getHero(): https://angular.io/tutorial/toh-pt5#add-heroservicegethero
+
 
 
 
