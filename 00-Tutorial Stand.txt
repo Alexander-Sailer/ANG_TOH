@@ -57,6 +57,7 @@ https://angular.io/tutorial/toh-pt1
       - Delete hero details from HeroesComponent: https://angular.io/tutorial/toh-pt5#delete-hero-details-from-heroescomponent
       - Add a hero detail route: https://angular.io/tutorial/toh-pt5#add-a-hero-detail-route
       - DashboardComponent hero links: https://angular.io/tutorial/toh-pt5#dashboardcomponent-hero-links
+    - Routable HeroDetailComponent: https://angular.io/tutorial/toh-pt5#routable-herodetailcomponent
 
 
 
