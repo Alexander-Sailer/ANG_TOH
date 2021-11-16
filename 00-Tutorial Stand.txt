@@ -60,6 +60,29 @@ https://angular.io/tutorial/toh-pt1
     - Routable HeroDetailComponent: https://angular.io/tutorial/toh-pt5#routable-herodetailcomponent
       - Extract the id route parameter: https://angular.io/tutorial/toh-pt5#extract-the-id-route-parameter
       - Add HeroService.getHero(): https://angular.io/tutorial/toh-pt5#add-heroservicegethero
+    - Get data from a server: https://angular.io/tutorial/toh-pt6#get-data-from-a-server
+      - Enable HTTP services: https://angular.io/tutorial/toh-pt6#enable-http-services
+      - Simulate a data server: https://angular.io/tutorial/toh-pt6#simulate-a-data-server
+      - Heroes and HTTP: https://angular.io/tutorial/toh-pt6#heroes-and-http
+      - Get heroes with HttpClient: https://angular.io/tutorial/toh-pt6#get-heroes-with-httpclient
+      - HttpClient methods return one value: https://angular.io/tutorial/toh-pt6#httpclient-methods-return-one-value
+      - HttpClient.get() returns response data: https://angular.io/tutorial/toh-pt6#httpclientget-returns-response-data
+      - Error handling: https://angular.io/tutorial/toh-pt6#error-handling
+      - handleError: https://angular.io/tutorial/toh-pt6#handleerror
+      - Tap into the Observable: https://angular.io/tutorial/toh-pt6#tap-into-the-observable
+      - Get hero by id: https://angular.io/tutorial/toh-pt6#get-hero-by-id
+    - Update heroes: https://angular.io/tutorial/toh-pt6#update-heroes
+      - Add HeroService.updateHero(): https://angular.io/tutorial/toh-pt6#add-heroserviceupdatehero
+    - Add a new hero: https://angular.io/tutorial/toh-pt6#add-a-new-hero
+    - Delete a hero: https://angular.io/tutorial/toh-pt6#delete-a-hero
+    - Search by name: https://angular.io/tutorial/toh-pt6#search-by-name
+      - Add search to the Dashboard: https://angular.io/tutorial/toh-pt6#add-search-to-the-dashboard
+      - Create HeroSearchComponent: https://angular.io/tutorial/toh-pt6#create-herosearchcomponent
+      - AsyncPipe: https://angular.io/tutorial/toh-pt6#asyncpipe
+      - Edit the HeroSearchComponent class: https://angular.io/tutorial/toh-pt6#edit-the-herosearchcomponent-class
+      - The searchTerms RxJS subject: https://angular.io/tutorial/toh-pt6#the-searchterms-rxjs-subject
+      - Chaining RxJS operators: https://angular.io/tutorial/toh-pt6#chaining-rxjs-operators
+
 
 
 
