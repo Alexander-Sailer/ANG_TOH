@@ -1,3 +1,7 @@
 0.) https://angular.io/tutorial/tour-of-heroes/toh-pt0
 Create a new workspace and an initial application
 
+1.) https://angular.io/tutorial/tour-of-heroes/toh-pt1#the-hero-editor
+The application now has a basic title. Next, create a new component to display hero 
+information and place that component in the application shell.
+
