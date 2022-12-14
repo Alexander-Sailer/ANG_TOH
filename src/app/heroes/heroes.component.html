@@ -1,22 +1,45 @@
-<!-- Default text -->
+<h2>Meine Hero-Liste als Tabelle</h2>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
 
-<h2>{{hero.id}}: {{hero.name | uppercase}}</h2> 
+  <!--- Note that these columns can be defined in any order.
+        The actual rendered columns are set as a property on the row definition" -->
+
+  <!-- ID Column -->
+  <ng-container matColumnDef="id">
+    <th mat-header-cell *matHeaderCellDef> ID </th>
+    <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef> Name </th>
+    <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="property">
+    <th mat-header-cell *matHeaderCellDef> Property </th>
+    <td mat-cell *matCellDef="let element"> {{element.property}} </td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="check">
+    <th mat-header-cell *matHeaderCellDef> Chk </th>
+    <td mat-cell *matCellDef="let element"> {{element.check}} </td>
+  </ng-container>
+
+  <!-- Symbol Column
+  <ng-container matColumnDef="symbol">
+    <th mat-header-cell *matHeaderCellDef> Symbol </th>
+    <td mat-cell *matCellDef="let element"> {{element.symbol}} </td>
+  </ng-container> -->
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
 
 
-<!-- Formated text with hero and its details -->
-<!-- 
-<h2>{{hero.name}} details</h2>
-<div><span>id: </span>{{hero.id}}</div>
-<div><span>name: </span>{{hero.name}}</div> 
--->
 
-<!-- hero editor -->
-
-<div>
-    <label for="name">Hero name: </label><br>
-    <input id="name" [(ngModel)]="hero.name" placeholder="name"><br>
-    <label for="name">Hero name (| uppercase): </label><br>
-    <input [ngModel]="hero.name | uppercase"
-        (ngModelChange)="hero.name=$event" name="inputField" type="text" 
-    />
-</div>
+<!-- Copyright 2022 Google LLC. All Rights Reserved.
+    Use of this source code is governed by an MIT-style license that
+    can be found in the LICENSE file at https://angular.io/license -->

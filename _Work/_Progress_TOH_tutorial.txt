@@ -5,3 +5,10 @@ Create a new workspace and an initial application
 The application now has a basic title. Next, create a new component to display hero 
 information and place that component in the application shell.
 
+
+2.) https://angular.io/tutorial/tour-of-heroes/toh-pt2#display-a-selection-list
+This tutorial shows you how to:
+    Expand the Tour of Heroes application to display a list of heroes.
+    Allow users to select a hero and display the hero's details.
+
+    
