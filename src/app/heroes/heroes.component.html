@@ -1,7 +1,7 @@
 <!-- Default text -->
-<!-- 
-<h2>{{hero.id}}: {{hero.name}}</h2> 
--->
+
+<h2>{{hero.id}}: {{hero.name | uppercase}}</h2> 
+
 
 <!-- Formated text with hero and its details -->
 <!-- 
@@ -13,6 +13,10 @@
 <!-- hero editor -->
 
 <div>
-    <label for="name">Hero name: </label>
-    <input id="name" [(ngModel)]="hero.name" placeholder="name">
+    <label for="name">Hero name: </label><br>
+    <input id="name" [(ngModel)]="hero.name" placeholder="name"><br>
+    <label for="name">Hero name (| uppercase): </label><br>
+    <input [ngModel]="hero.name | uppercase"
+        (ngModelChange)="hero.name=$event" name="inputField" type="text" 
+    />
 </div>
